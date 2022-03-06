@@ -1,6 +1,7 @@
 # Hi there, I'm [Jeyym Santos][website] 👋 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/jeyymsantos) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jeyymsantos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeyymsantos) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/jeyymsantos)
+<img src="https://komarev.com/ghpvc/?jeyymsantos&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000FD7&size=50&width=1270&height=100&center=true&lines=Student+Leader;Web+Developer;Desktop+Developer;YouTube+Content+Creator;)](https://git.io/typing-svg)
 
