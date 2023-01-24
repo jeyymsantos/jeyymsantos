@@ -5,17 +5,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000FD7&size=50&width=1270&height=100&center=true&lines=Student+Leader;Web+Developer;Desktop+Developer;YouTube+Content+Creator;)](https://git.io/typing-svg)
 
-I'm a Filpino Software Developer, student leader, vlogger and content creator, and a freshman at National University - Baliwag taking BS in Information Technology.
+I'm a Filpino Software Developer, student leader, vlogger and content creator, and a sophomore at National University - Baliwag taking BS in Information Technology.
 
 ## Get to know me!
 
-- 💼 Vice President at [NU Literates](https://facebook.com/NULiterates), an IT Academic Organization at NU Baliwag.
+- 💚 Founder/Lead at [GDSC NU Baliwag](https://facebook.com/GDSCNUB), the first & official Google Developer Student Clubs chapter at NU Baliwag, a first in Bulacan, 2022-2023
+- 💙 NEW Microsoft Student Ambassador [Profile](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/a8b3fad3-5c2c-4fb4-a931-306d0e80884d), 2022
+- 🖤 NEW Notion Campus Leader, 2023
+- 💼 President at [NU Literates Community](https://facebook.com/NULiterates), an IT Academic Organization at NU Baliwag, 2022-2023.
+- 💼 Former Vice President at [NU Literates Community](https://facebook.com/NULiterates), 2021-2022.
 - 👤 Former Governor at [STI College Malolos - Student Government](https://facebook.com/CSGSTIMalolos), 2020-2021.
 - 🖥 Former ICT Representative at [STI College Malolos - Student Government](https://facebook.com/CSGSTIMalolos), 2019-2020. 
-- 💻 C# Desktop Application and Basic Web Development
-- ✨ 2022 Goals: 
-    - Be accepted at Google Developer Student Club
-    - Be accepted at Microsoft Student Ambassador
+- 💻 C# Desktop Application, Flutter and Basic Web Development
+- ✨ 2023 Goals: 
+    - Be accepted at GitHub Campus Expert
 - ⚡ Still in the process of learning and developing skills.
 ---
 ### Languages and Tools:
